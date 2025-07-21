@@ -15,9 +15,6 @@ It showcases who I am, my current skills, and some cool projects I’ve made as 
 - 💬 Interactive sections: About Me, Projects, and Contact
 - 📩 Linked to Email, LinkedIn, and GitHub
 
-## 📷 Preview
-
-![Portfolio Preview](./preview.png) <!-- You can change this with a real screenshot name -->
 
 ## 🌐 Live Demo
 
