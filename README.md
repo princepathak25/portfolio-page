@@ -18,7 +18,7 @@ It showcases who I am, my current skills, and some cool projects I’ve made as 
 
 ## 🌐 Live Demo
 
-> Coming soon via GitHub Pages...
+>  https://princepathak25.github.io/portfolio-page/
 
 ## 🔗 Connect with Me
 
